@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  style={
+    Object {
+      "backgroundColor": "lightblue",
+      "font-weight": "900",
+      "height": "30px",
+      "marginTop": "-10px",
+      "paddingTop": "10px",
+      "text-align": "center",
+    }
+  }
+>
+  Welcome to Countries Hub
+</div>
+`;
